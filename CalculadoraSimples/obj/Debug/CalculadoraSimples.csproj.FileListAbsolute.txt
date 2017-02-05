@@ -1,0 +1,9 @@
+E:\Meus Programas\CalculadoraSimples\CalculadoraSimples\bin\Debug\CalculadoraSimples.exe.config
+E:\Meus Programas\CalculadoraSimples\CalculadoraSimples\bin\Debug\CalculadoraSimples.exe
+E:\Meus Programas\CalculadoraSimples\CalculadoraSimples\bin\Debug\CalculadoraSimples.pdb
+E:\Meus Programas\CalculadoraSimples\CalculadoraSimples\obj\Debug\CalculadoraSimples.csprojResolveAssemblyReference.cache
+E:\Meus Programas\CalculadoraSimples\CalculadoraSimples\obj\Debug\CalculadoraSimples.Properties.Resources.resources
+E:\Meus Programas\CalculadoraSimples\CalculadoraSimples\obj\Debug\CalculadoraSimples.csproj.GenerateResource.Cache
+E:\Meus Programas\CalculadoraSimples\CalculadoraSimples\obj\Debug\CalculadoraSimples.exe
+E:\Meus Programas\CalculadoraSimples\CalculadoraSimples\obj\Debug\CalculadoraSimples.pdb
+E:\Meus Programas\CalculadoraSimples\CalculadoraSimples\obj\Debug\CalculadoraSimples.CalculadoraSimples.resources
